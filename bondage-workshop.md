@@ -1,18 +1,18 @@
 ---
 marp: true
-title: 37c3 KinkyGeeks Beginner Bondage Workshop
+title: Beginner Bondage Workshop
 description: A 101 on Shibari
 author: DoodleMe
-keywords: shibari, bdsm, 37c7, kinkygeeks
+keywords: shibari, bdsm, 37c7, hacker camp
 theme: default
 class: invert
 ---
 
-# 37c3 KinkyGeeks Beginner Bondage Workshop
+# Beginner Bondage Workshop
 
 ## A 101 on Shibari
 
-###### FL: doodleme & lola91_
+###### FetLife: doodleme & lola_rope
 
 ---
 
@@ -45,9 +45,8 @@ class: invert
 
 # Free Play and Conclusion
 
-- Please play safe and with consent.
-- We were DoodleMe and Lola91_ on FL
-- Assistants: diac, w817, and simon_fredrikson on FL
-- Extra questions welcome after the session, via DECT or on FL
-- Kinky Geeks Party Tomorrow (day 2) from 8:00 pm
-    - See KinkyGeeks.de for more info
+- Please play safe and with consent
+- We were [DoodleMe](https://fetlife.com/doodleme) and [Lola_Rope](https://fetlife.com/lola_rope) on FetLife
+- Assistants: diac, w817    , and simon_fredrikson on FetLife
+- Extra questions welcome after the session, via DECT or on FetLife
+- Two hour rope jam after the session starting at 9pm
