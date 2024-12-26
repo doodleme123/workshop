@@ -3,7 +3,7 @@ marp: true
 title: Beginner Bondage Workshop
 description: A 101 on Shibari
 author: DoodleMe
-keywords: shibari, bdsm, 37c7, hacker camp
+keywords: shibari, bdsm, 38c3, hacker camp
 theme: default
 class: invert
 ---
@@ -12,7 +12,7 @@ class: invert
 
 ## A 101 on Shibari
 
-###### FetLife: doodleme & lola_rope
+###### FetLife: DoodleMe & KnottyLola
 
 ---
 
@@ -46,7 +46,6 @@ class: invert
 # Free Play and Conclusion
 
 - Please play safe and with consent
-- We were [DoodleMe](https://fetlife.com/doodleme) and [Lola_Rope](https://fetlife.com/lola_rope) on FetLife
-- Assistants: diac, w817    , and simon_fredrikson on FetLife
+- We were [DoodleMe](https://fetlife.com/doodleme) and [KnottyLola](https://fetlife.com/knottylola) on FetLife
+- Assistants: diac, w817, and simon_fredrikson on FetLife
 - Extra questions welcome after the session, via DECT or on FetLife
-- Two hour rope jam after the session starting at 9pm

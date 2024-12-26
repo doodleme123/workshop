@@ -3,19 +3,17 @@ marp: true
 title: Workshop Handout
 description: A 101 on Shibari
 author: DoodleMe
-keywords: shibari, bdsm, hacker camp
+keywords: shibari, bdsm, 38c3, hacker camp
 theme: default
 ---
 
-
-
 <style>
 section { columns: 2; column-count: 2;  }
-section { font-size: 5px; }
+section { font-size: 10px; }
 </style>
 
 # Beginner Bondage Workshop
-### A 101 on Shibari by doodleme & lola_rope (FetLife)
+### A 101 on Shibari by DoodleMe & KnottyLola (FetLife)
 
 ## Example Consent Questions
 
@@ -28,7 +26,7 @@ section { font-size: 5px; }
 - What are the rules of contact? … Will you be minimizing contact, touching their skin with yours only when absolutely necessary?  Will it mostly be only the rope that touches them?  Will you be casually and comfortably brushing their skin as you tie?  Will you be all up in their business, teasing and tormenting them as you tie, i.e. the more touch the better?
 - Is sex planned to be part of the scene? If yes, how do you define sex? For this workshop, no.
 
-_Adapted From: https://www.theduchy.com/general-negotiation-and-planning/_
+*Adapted From: https://www.theduchy.com/general-negotiation-and-planning/*
 
 ## What we learned?
 
@@ -47,10 +45,9 @@ _Adapted From: https://www.theduchy.com/general-negotiation-and-planning/_
 - ShibariStudy.com - another tutorials
 - Google ;-)
 
-# Free Play and Conclusion
+## Free Play and Conclusion
 
 - Please play safe and with consent
-- We were [DoodleMe](https://fetlife.com/doodleme) and [Lola_Rope](https://fetlife.com/lola_rope) on FetLife
+- We were DoodleMe and KnottyLola (FetLife)
 - Assistants: diac, w817, and simon_fredrikson on FetLife
 - Extra questions welcome after the session, via DECT or on FetLife
-- Two hour rope jam after the session starting at 9pm
