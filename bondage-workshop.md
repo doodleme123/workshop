@@ -12,7 +12,9 @@ class: invert
 
 ## A 101 on Shibari
 
-###### FetLife: DoodleMe & KnottyLola
+##### FetLife: DoodleMe & KnottyLola
+
+###### Mirrors: Diac, simon_fredrikson, orangem
 
 ---
 
@@ -31,6 +33,10 @@ class: invert
 
 ---
 
+
+
+---
+
 # What we learned?
 
 - Three building blocks:
@@ -43,9 +49,20 @@ class: invert
 
 ---
 
+## Where to learn more?
+- Find your local Peer Rope or Munch
+- FetLife.com - social network and events
+- TheDutchy.com - tutorials
+- ShibariStudy.com - another tutorials
+- CrashRestraint - yet another tutorials option
+- Google ;-)
+
+---
+
 # Free Play and Conclusion
 
 - Please play safe and with consent
 - We were [DoodleMe](https://fetlife.com/doodleme) and [KnottyLola](https://fetlife.com/knottylola) on FetLife
-- Assistants: diac, w817, and simon_fredrikson on FetLife
+- Assistants: Diac, simon_fredrikson, orangem on FetLife
 - Extra questions welcome after the session, via DECT or on FetLife
+- Play party tomorrow night @ 8pm, *read* KinkyGeeks.de for info
