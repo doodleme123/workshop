@@ -41,13 +41,15 @@ section { font-size: 10px; }
 ## Where to learn more?
 - Find your local Peer Rope or Munch
 - FetLife.com - social network and events
-- TheDutchy.com - tutorials
-- ShibariStudy.com - another tutorials
+- Crash-Restraint.com - free for all tutorials
+- TheDutchy.com - mostly paid tutorials
+- ShibariStudy.com - only paid tutorials
 - Google ;-)
 
 ## Free Play and Conclusion
 
 - Please play safe and with consent
-- We were DoodleMe and KnottyLola (FetLife)
-- Assistants: diac, w817, and simon_fredrikson on FetLife
-- Extra questions welcome after the session, via DECT or on FetLife
+- We were [DoodleMe](http://fetlife.com/DoodleMe) and [KnottyLola](http://fetlife.com/KnottyLola) (FetLife), questions are welcome there
+- We post photos of our work and information about our lessons there
+- Assistants: [diac](http://fetlife.com/diac), Celine, [w817](http://fetlife.com/w817), [simon_fredrikson](http://fetlife.com/simon_fredrikson) and [orangem](https://fetlife.com/orangem) on FetLife
+- Extra questions welcome after the session, in RopeLabs village via DECT or on FetLife
