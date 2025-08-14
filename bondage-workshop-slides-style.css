@@ -1,0 +1,19 @@
+
+
+/* Title slide */
+section:first-of-type {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
+}
+
+/* All Slides */ 
+.consent-section { 
+  font-size: 24px; 
+}
+
+.blank-slide {
+  text-align: center;
+  color: #696969;
+  font-size: 0.75rem;
+  margin: 0 auto;
+  font-style: italic;
+}
