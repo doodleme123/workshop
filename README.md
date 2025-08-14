@@ -1,6 +1,8 @@
 # Visitors
 
-If you're **here for the slides or handout** you're likely looking for [bondage-workshop-slides.pdf](bondage-workshop-slides.pdf) or [bondage-workshop-handouts.pdf](bondage-workshop-handouts)!
+You can download the:
+ - [bondage-workshop-slides.pdf](bondage-workshop-slides.pdf) or
+ - [bondage-workshop-handouts.pdf](bondage-workshop-handouts.pdf)
 
 # Contributing
 
